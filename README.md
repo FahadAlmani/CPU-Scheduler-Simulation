@@ -11,19 +11,19 @@
     You will write Java program to read the file (of standard data format) and produce some statistics. This phase is to make sure that everyone uses the same data file format.
  
     Statistics required in this phase are:
-    1.Total number of process.
-    2.Maximum burst time
-    3.Minimum burst time
-    4.How many process have more than average burst time?
-    5.How many processes have less than average burst time?
+    1-Total number of process.
+    2-Maximum burst time
+    3-Minimum burst time
+    4-How many process have more than average burst time?
+    5-How many processes have less than average burst time?
 # Phase2:
      New data file (of standard format) will be provided to every student i.e. every member of group which he will use to simulate his project and then submit the result. Statistics   
      required in this phase are:
-     1.Time the first process arrives.
-     2.PID of the second process executed. 
-     3.Time the last process executed.
-     4.PID of the last process executed.
-     5.Finish time of every process.
-     6.Total time for execution of all processes.
-     7.Average turnaround time.
-     8.	Average waiting time.
+     1-Time the first process arrives.
+     2-PID of the second process executed. 
+     3-Time the last process executed.
+     4-PID of the last process executed.
+     5-Finish time of every process.
+     6-Total time for execution of all processes.
+     7-Average turnaround time.
+     8-Average waiting time.
