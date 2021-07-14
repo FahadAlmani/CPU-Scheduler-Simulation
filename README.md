@@ -2,7 +2,8 @@
 # Project Description:
     In this project you will simulate Round Robin scheduling algorithm. For the sake of simulation, consider a
     simple system with a single CPU, single I/O device. The CPU has a ready queue and an I/O queue. The 
-    system will select a process from the ready queue based on RR algorithm (quantum = 3) and send it to CPU. Information about a process is maintained in process control block (PCB) during 
+    system will select a process from the ready queue based on RR algorithm (quantum = 3) and send it to CPU.
+    Information about a process is maintained in process control block (PCB) during 
     the lifetime of the process i.e. from start until termination. Each process PCB contains all required 
     information to identify the process such as its id, its state, and required statistics which include 
     turnaround time for each process, and waiting time for each process. You can add
