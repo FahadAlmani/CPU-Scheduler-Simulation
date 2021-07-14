@@ -8,9 +8,8 @@
     information to identify the process such as its id, its state, and required statistics which include 
     turnaround time for each process, and waiting time for each process. You can add
 # Phase1:
-    You will write Java program to read the file (of standard data format) and produce some statistics. 
-    This phase is to make sure that everyone uses the same data file format.
- 
+    You will write Java program to read the CSV file and produce some statistics. 
+    
     Statistics required in this phase are:
     1. Total number of process.
     2. Maximum burst time
@@ -18,8 +17,7 @@
     4. How many process have more than average burst time?
     5. How many processes have less than average burst time?
 # Phase2:
-     New data file (of standard format) will be provided to every student i.e. 
-     every member of group which he will use to simulate his project and then submit the result. 
+     You will write Java program to read the CSV file and produce some statistics.
      
      Statistics required in this phase are:
      1. Time the first process arrives.
