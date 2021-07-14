@@ -20,6 +20,7 @@
 # Phase2:
      New data file (of standard format) will be provided to every student i.e. 
      every member of group which he will use to simulate his project and then submit the result. 
+     
      Statistics required in this phase are:
      1. Time the first process arrives.
      2. PID of the second process executed. 
