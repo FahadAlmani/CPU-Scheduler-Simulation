@@ -1,6 +1,6 @@
 # CPU-Scheduler-Simulation
 # Project Description:
-		In this project you will simulate Round Robin scheduling algorithm. For the sake of simulation, consider a
+    In this project you will simulate Round Robin scheduling algorithm. For the sake of simulation, consider a
     simple system with a single CPU, single I/O device. The CPU has a ready queue and an I/O queue. The 
     system will select a process from the ready queue based on RR algorithm (quantum time will be given to 
     you) and send it to CPU. Information about a process is maintained in process control block (PCB) during 
