@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class phase1 {
 
 	public static void main(String[] args) throws IOException {
-		String path ="data for students 01 ver2.csv";
+		String path ="/*File path*/";
 		int process = 0;
 		int maxburst = Integer.MIN_VALUE;
 		int minburst = Integer.MAX_VALUE;
