@@ -9,7 +9,7 @@ import java.util.PriorityQueue;
 public class phase2 {
 
 	public static void main(String[] args) throws IOException {
-		String path = "C:\\Users\\Fahad\\eclipse-workspace\\CSC227Project\\src\\Phase2//test.csv";
+		String path = "/*File path*/";
 		String line = "";
 		BufferedReader read = new BufferedReader(new FileReader(path));
 		PriorityQueue<PCB> tmpQueue = new PriorityQueue<PCB>();
